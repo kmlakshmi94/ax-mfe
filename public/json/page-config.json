@@ -1,0 +1,6 @@
+{
+    "id": "prelogin",
+    "components" : {
+        "remoteComponentName": "PreloginLib"
+    }
+}
